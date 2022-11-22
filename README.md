@@ -1,2 +1,2 @@
-# Veri-Yap-lar-ve-Algoritmalar
-Patika.dev Veri Yapıları ve Algoritmalar
+# Veri-Yapilari-ve-Algoritmalar
+Patika.dev Veri Yapilari ve Algoritmalar
